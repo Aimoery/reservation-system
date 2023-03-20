@@ -1,0 +1,10 @@
+﻿  identity.h
+  Manager.cpp
+  Manger.cpp
+  OrderFile.cpp
+D:\Desktop\机房预约系统\OrderFile.cpp(11,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Student.cpp
+  Teacher.cpp
+  机房预约系统.cpp
+  正在生成代码...
+  机房预约系统.vcxproj -> D:\Desktop\机房预约系统\x64\Debug\机房预约系统.exe
